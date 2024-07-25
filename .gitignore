@@ -1,0 +1,7 @@
+build/
+cocos2d/
+pro.design/
+proj.android/
+proj.ios_mac/
+proj.win32/
+proj.linux/
